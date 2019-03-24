@@ -1,5 +1,7 @@
 # LinuxReinstall
 Backup
+# USE
+wget --no-check-certificate -qO netre.sh 'https://git.io/NetRe' && chmod a+x netre.sh
 ## Debian/Ubuntu:
 apt-get install -y xz-utils openssl gawk file
  
